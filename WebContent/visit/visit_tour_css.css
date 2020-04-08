@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+html, body, h1, h2, h3, h4, h5, h6, li, p a{ font-family:'Jeju Gothic', serif; }
+
+/*------ vbg1 ------*/
+.vbg-1 h1{
+ font-size: 70px;
+}
+.vbg-1 p{
+    margin-top: 40px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+/*------ end ------*/
+
+
+/*------ vbg2 ------*/
+.vbg-2{
+    margin-bottom: 70px;
+}
+.vbg-2 img{
+    width:90%;
+    height: 420px;
+}
+/*------ end ------*/
+
+
+
+

@@ -1,0 +1,27 @@
+
+/*table*/
+.bg8 a:link{
+	  color: black; text-decoration: none;
+}
+
+.bg8 a:visited { color: black; text-decoration: none;}
+.bg8 a:hover { color: black; text-decoration: underline;}
+
+/*visit1*/
+h4{
+	font-size:50px;
+}
+
+.bg9 th{
+	font-size:40px;
+}
+
+.bg9 td{
+	font-size:20px;
+}
+.bg9 a:link{
+	  color: black; text-decoration: none;
+}
+
+.bg9 a:visited { color: black; text-decoration: none;}
+.bg9 a:hover { color: black; text-decoration: underline;}

@@ -1,0 +1,20 @@
+
+
+.rbg-3 p{
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+.rbg-4 a:link{
+	  color: black; text-decoration: none;
+}
+
+.rbg-4 a:visited 
+{ color: black;
+ text-decoration: none;
+}
+.rbg-4 a:hover {
+	color: black;
+ text-decoration: none;}
+ 
+ 

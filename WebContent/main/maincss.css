@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+html, body, h1, h2, h3, h4, h5, h6, li, p a{ font-family: 'Nanum Pen Script', serif; }
+
+
+figure{
+  margin-bottom: 25px;
+}
+
+#rimg{
+    width:450px;
+    height:320px;
+}
+
+.hover11 figure img {
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover11 figure:hover img {
+  opacity: .5;
+}
+
+.thumbnail{
+ width: 100%;
+}
+
+
+
+.bg-3 {
+      color: black;
+      margin-bottom: 30px;
+  }
+
+.sizeclass{
+    margin-top: 51px;
+}
+
+
+
+

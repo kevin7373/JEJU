@@ -1,0 +1,169 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+html, body, h1, h2, h3, h4, h5, h6, li, p a{ font-family:'Jeju Gothic', serif; }
+
+h1{
+    margin-top: 50px;
+    font-size: 80px;
+}
+
+.btn {
+  margin:0px;
+  padding: 0px;
+  margin-top: 2px;
+  font-size: 34px;
+}
+
+.maincss{
+  font-size: 40px;
+}
+h2{
+    margin-top : 10px;
+    color: #0078FF;
+    font-size: 55px;
+}
+p{
+    font-size: 35px;
+    text-align: center;
+}
+
+footer{
+color: black;
+font-size: 40px;
+}
+
+button{
+    background-color: black;
+}
+
+nav{
+    padding-top: 13px;
+    font-size: 45px;
+}
+
+
+h3{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+
+
+/* nav  */
+.bgnav {
+    font-size: 40px;
+}
+
+.bgnav #brand{
+    color: black;
+    margin-left: 40px;
+    margin-top: 10px;"
+}
+#navdrop{
+    margin-top: 15px;
+    font-size: 30px;
+}
+.bgnav form{
+    margin-right: 150px;
+    margin-bottom: 10px;
+}
+.bgnav form input{
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+    color: black;
+}
+.navbar-form{
+    padding: 0px;
+}
+.navbar-header{
+  padding-top: 10px;
+  margin-left: 15px;
+}
+.navcolor{
+    background-color:white;
+    font-size: 35px;
+}
+.navcss{
+}
+.navbar-default .navbar-nav > li > a {
+    padding-top: 25px;
+    margin-left: 20px;
+    color: black;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: black;
+    background-color: gray;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: red;
+    background-color: gray;
+}
+.navbar-inverse .navbar-nav > li > a:focus{
+   background-color: gray;
+   color: black;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+   color: black;
+    background-color: gray;
+}
+
+/*  bg4*/
+.bg-4 a{
+  margin-top: 15px;
+  text-decoration:none;
+  font-size : 25px;
+  display: block;
+  color: white;
+  text-align: center;
+}
+
+.bg-4 h4{
+      color: white;
+      font-size: 35px;
+      background-color: black;
+  }
+
+.bg-4 {
+      color: white;
+      margin-bottom: 30px;
+      background-color: black;
+}
+
+#bgimg{
+  margin-top: 30px;
+  width: 150px;
+  height: 100px;
+}
+
+.bg-4 p{
+  font-size: 30px;
+}
+/* end */
+
+.footbg{
+  font-size: 20px;
+  text-align: center;
+}
+
+#footimg{
+  padding-left: 20px;
+  margin-top: 50px;
+  width: 160px;
+  height: 140px;
+}
+
+.footbg tr, td{
+
+}
+
+.bbb1 img{
+	width:50px;
+	 height:50px;
+}
+
